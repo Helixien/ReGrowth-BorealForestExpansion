@@ -24,7 +24,7 @@
                 <li>Hydroponic</li>
             </sowTags>
             <sowResearchPrerequisites>
-                <li>RG-B_PotokusGrowing</li>
+                <li>RG_MushroomCultivation</li>
             </sowResearchPrerequisites>
             <fertilityMin>0.04</fertilityMin>
             <fertilitySensitivity>0.15</fertilitySensitivity>
