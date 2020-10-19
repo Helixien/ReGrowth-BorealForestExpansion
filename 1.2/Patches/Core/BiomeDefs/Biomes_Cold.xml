@@ -26,8 +26,8 @@
                     <xpath>/Defs/BiomeDef[defName="BorealForest"]/wildPlants</xpath>
                     <value>
                         <RG-B_Plant_RimReed>1.0</RG-B_Plant_RimReed>
-                        <RG-B_Plant_BlueTreePine>1.8</RG-B_Plant_BlueTreePine>
-                        <RG-B_Plant_LargeTreePine>1.8</RG-B_Plant_LargeTreePine>
+                        <RG-B_Plant_BlueTreePine>0.8</RG-B_Plant_BlueTreePine>
+                        <RG-B_Plant_LargeTreePine>0.8</RG-B_Plant_LargeTreePine>
                         <RG-B_Potokus>0.5</RG-B_Potokus>
                     </value>
                 </li>
