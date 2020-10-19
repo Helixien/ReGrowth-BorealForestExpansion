@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="PlantBase">
-        <defName>RG-B_Plant_Potokus</defName>
+        <defName>RG-BF_Plant_Potokus</defName>
         <label>cultivated potokus</label>
         <description>A small brown and delicious mushroom growing in clusters. It grows slowly but can't blight.</description>
         <graphicData>

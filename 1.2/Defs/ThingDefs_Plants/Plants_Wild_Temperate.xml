@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="PlantBase">
-        <defName>RG-B_Plant_RimReed</defName>
+        <defName>RG-BF_Plant_RimReed</defName>
         <label>rim reed</label>
         <description>A genetically modified version of the common reed. Slows down anyone moving through it, while looking beautiful in the wind.</description>
         <statBases>
@@ -33,7 +33,7 @@
     </ThingDef>
 
     <ThingDef ParentName="TreeBase">
-        <defName>RG-B_Plant_BlueTreePine</defName>
+        <defName>RG-BF_Plant_BlueTreePine</defName>
         <label>pine tree</label>
         <description>A smaller blueish conifer covered with small pine cones. It grows only in colder regions or higher altitude.</description>
         <graphicData>
@@ -58,7 +58,7 @@
     </ThingDef>
 
     <ThingDef ParentName="TreeBase">
-        <defName>RG-B_Plant_LargeTreePine</defName>
+        <defName>RG-BF_Plant_LargeTreePine</defName>
         <label>pine tree</label>
         <description>A large bright green conifer with a thin bark. It grows taller than other pines.</description>
         <graphicData>

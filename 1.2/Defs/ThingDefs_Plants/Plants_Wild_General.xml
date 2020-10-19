@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="BushBase">
-        <defName>RG-TF_Plant_BorealFern</defName>
+        <defName>RG-BF_Plant_BorealFern</defName>
         <label>fern</label>
         <description>A short shrub with long, fine leaves. Grows in forests in warmer areas.</description>
         <graphicData>
@@ -23,7 +23,7 @@
     </ThingDef>
 
     <ThingDef ParentName="PlantBase">
-        <defName>RG-B_Potokus</defName>
+        <defName>RG-BF_Potokus</defName>
         <label>potokus</label>
         <description>A small brown and delicious mushroom growing in clusters. It grows exclusively in boreal forests.</description>
         <graphicData>
