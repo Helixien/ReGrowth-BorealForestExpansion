@@ -11,8 +11,8 @@
                 <li Class="PatchOperationAdd">
                     <xpath>/Defs/BiomeDef[defName="Tundra"]/wildPlants</xpath>
                     <value>
-                        <RG-B_Plant_LargeTreePine>0.04</RG-B_Plant_LargeTreePine>
-                        <RG-B_Plant_BlueTreePine>0.02</RG-B_Plant_BlueTreePine>
+                        <RG-B_Plant_BlueTreePine>0.04</RG-B_Plant_BlueTreePine>
+                        <RG-B_Plant_LargeTreePine>0.02</RG-B_Plant_LargeTreePine>
                     </value>
                 </li>
                 <li Class="PatchOperationAdd">
@@ -25,10 +25,10 @@
                 <li Class="PatchOperationAdd">
                     <xpath>/Defs/BiomeDef[defName="BorealForest"]/wildPlants</xpath>
                     <value>
-                        <RG-B_Plant_RimReed>1.0</RG-B_Plant_RimReed>
+                        <RG-B_Plant_RimReed>0.6</RG-B_Plant_RimReed>
                         <RG-B_Plant_BlueTreePine>0.8</RG-B_Plant_BlueTreePine>
-                        <RG-B_Plant_LargeTreePine>0.8</RG-B_Plant_LargeTreePine>
-                        <RG-B_Potokus>0.5</RG-B_Potokus>
+                        <RG-B_Plant_LargeTreePine>0.4</RG-B_Plant_LargeTreePine>
+                        <RG-B_Potokus>0.05</RG-B_Potokus>
                     </value>
                 </li>
             </operations>
