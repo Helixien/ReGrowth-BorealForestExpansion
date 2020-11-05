@@ -29,9 +29,9 @@
                     <value>
                         <RG-BF_Plant_RimReed>0.6</RG-BF_Plant_RimReed>
 						<RG-BF_Plant_BorealFern>2.0</RG-BF_Plant_BorealFern>
-                        <RG-BF_Plant_BlueTreePine>0.8</RG-BF_Plant_BlueTreePine>
-                        <RG-BF_Plant_LargeTreePine>0.4</RG-BF_Plant_LargeTreePine>
-                        <RG-BF_Potokus>0.05</RG-BF_Potokus>
+                        <RG-BF_Plant_BlueTreePine>1.0</RG-BF_Plant_BlueTreePine>
+                        <RG-BF_Plant_LargeTreePine>0.8</RG-BF_Plant_LargeTreePine>
+                        <RG-BF_Potokus>0.025</RG-BF_Potokus>
                     </value>
                 </li>
             </operations>
