@@ -28,7 +28,7 @@
             </sowResearchPrerequisites>
             <fertilityMin>0.04</fertilityMin>
             <fertilitySensitivity>0.15</fertilitySensitivity>
-            <growDays>18</growDays>
+            <growDays>12</growDays>
             <maxMeshCount>4</maxMeshCount>
             <sowMinSkill>8</sowMinSkill>
             <dieIfLeafless>true</dieIfLeafless>

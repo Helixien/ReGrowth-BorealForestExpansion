@@ -23,7 +23,7 @@
     <ThingDef ParentName="PlantBase">
         <defName>RG-T_Plant_ScrubPine</defName>
         <label>pine scrub</label>
-        <description>Wild crimson colored carpet plant. Takes a long time to grow, but is very frost-resistant.</description>
+        <description>A low growing, pine shrub found in boreal biomes. It slows down anyone moving through it significantly and does not die in winter.</description>
         <statBases>
             <MaxHitPoints>120</MaxHitPoints>
             <Flammability>0.9</Flammability>
@@ -34,7 +34,7 @@
             <graphicClass>Graphic_Random</graphicClass>
         </graphicData>
         <hideAtSnowDepth>0.8</hideAtSnowDepth>
-		<pathCost>35</pathCost>
+		<pathCost>55</pathCost>
         <ingestible />
         <plant>
             <fertilityMin>0.05</fertilityMin>
@@ -53,7 +53,7 @@
     <ThingDef ParentName="PlantBase">
         <defName>RG-BF_Plant_RimReed</defName>
         <label>rim reed</label>
-        <description>A genetically modified version of the common reed. Slows down anyone moving through it, while looking beautiful in the wind.</description>
+        <description>A genetically modified version of the common reed. Slows down anyone moving through it while looking beautiful in the wind.</description>
         <statBases>
             <MaxHitPoints>100</MaxHitPoints>
             <Flammability>1.7</Flammability>
@@ -80,6 +80,31 @@
             <purpose>Beauty</purpose>
         </plant>
     </ThingDef>
+	
+	<ThingDef ParentName="TreeBase">
+		<defName>RG-BF_Plant_OrangeTreePine</defName>
+		<label>pine tree</label>
+		<description>A large orange conifer covered with prickly pine cones. It grows in a distinctive conical shape.</description>
+		<graphicData>
+			<texPath>Things/Plant/OrangeTreePine</texPath>
+			<graphicClass>Graphic_Random</graphicClass>
+			<shadowData>
+				<volume>(0.15, 0.3, 0.15)</volume>
+				<offset>(0,0,-0.38)</offset>
+			</shadowData>
+		</graphicData>
+		<statBases>
+			<Beauty>3</Beauty>
+			<Nutrition>1.15</Nutrition>
+		</statBases>
+		<ingestible />
+		<plant>
+			<growDays>25</growDays>
+			<visualSizeRange>1.1~2.5</visualSizeRange>
+			<harvestWork>750</harvestWork>
+			<harvestYield>21</harvestYield>
+		</plant>
+	</ThingDef>
 
     <ThingDef ParentName="TreeBase">
         <defName>RG-BF_Plant_BlueTreePine</defName>
@@ -151,7 +176,7 @@
         <plant>
             <fertilityMin>0.04</fertilityMin>
             <fertilitySensitivity>0.15</fertilitySensitivity>
-            <growDays>45</growDays>
+            <growDays>18</growDays>
             <maxMeshCount>4</maxMeshCount>
             <dieIfLeafless>true</dieIfLeafless>
             <harvestYield>35</harvestYield>
