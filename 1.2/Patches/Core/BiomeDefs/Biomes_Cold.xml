@@ -12,8 +12,6 @@
                     <xpath>/Defs/BiomeDef[defName="Tundra"]/wildPlants</xpath>
                     <value>
 						<RG-BF_Plant_BorealFern>1.0</RG-BF_Plant_BorealFern>
-						<RG-BF_Plant_OrangeBorealFern>0.4</RG-BF_Plant_OrangeBorealFern>
-                        <RG-BF_Plant_OrangeTreePine>0.04</RG-BF_Plant_OrangeTreePine>
                         <RG-BF_Plant_BlueTreePine>0.04</RG-BF_Plant_BlueTreePine>
                         <RG-BF_Plant_LargeTreePine>0.02</RG-BF_Plant_LargeTreePine>
                     </value>
@@ -23,8 +21,6 @@
                     <value>
                         <RG-BF_Plant_RimReed>0.2</RG-BF_Plant_RimReed>
 						<RG-BF_Plant_BorealFern>1.0</RG-BF_Plant_BorealFern>
-						<RG-BF_Plant_OrangeBorealFern>0.2</RG-BF_Plant_OrangeBorealFern>
-                        <RG-BF_Plant_OrangeTreePine>0.04</RG-BF_Plant_OrangeTreePine>
                         <RG-BF_Plant_LargeTreePine>0.01</RG-BF_Plant_LargeTreePine>
                     </value>
                 </li>
@@ -33,8 +29,7 @@
                     <value>
                         <RG-BF_Plant_RimReed>0.6</RG-BF_Plant_RimReed>
 						<RG-BF_Plant_BorealFern>2.0</RG-BF_Plant_BorealFern>
-						<RG-BF_Plant_OrangeBorealFern>0.8</RG-BF_Plant_OrangeBorealFern>
-                        <RG-BF_Plant_OrangeTreePine>0.4</RG-BF_Plant_OrangeTreePine>
+						<RG-T_Plant_ScrubPine>2.0</RG-T_Plant_ScrubPine>
                         <RG-BF_Plant_BlueTreePine>1.0</RG-BF_Plant_BlueTreePine>
                         <RG-BF_Plant_LargeTreePine>0.8</RG-BF_Plant_LargeTreePine>
                         <RG-BF_Potokus>0.025</RG-BF_Potokus>
