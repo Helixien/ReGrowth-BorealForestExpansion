@@ -49,37 +49,6 @@
             <wildOrder>1</wildOrder>
         </plant>
     </ThingDef>
-
-    <ThingDef ParentName="PlantBase">
-        <defName>RG-BF_Plant_RimReed</defName>
-        <label>rim reed</label>
-        <description>A genetically modified version of the common reed. Slows down anyone moving through it while looking beautiful in the wind.</description>
-        <statBases>
-            <MaxHitPoints>100</MaxHitPoints>
-            <Flammability>1.7</Flammability>
-            <Beauty>4</Beauty>
-            <Nutrition>0.10</Nutrition>
-        </statBases>
-        <pathCost>20</pathCost>
-        <graphicData>
-            <texPath>Things/Plant/RimReed</texPath>
-            <graphicClass>Graphic_Random</graphicClass>
-        </graphicData>
-        <hideAtSnowDepth>0.6</hideAtSnowDepth>
-        <ingestible />
-        <plant>
-            <fertilitySensitivity>0.7</fertilitySensitivity>
-            <growDays>5</growDays>
-            <harvestWork>70</harvestWork>
-            <maxMeshCount>9</maxMeshCount>
-            <visualSizeRange>0.7~0.90</visualSizeRange>
-            <topWindExposure>0.4</topWindExposure>
-            <wildClusterRadius>6</wildClusterRadius>
-            <wildClusterWeight>1.5</wildClusterWeight>
-            <wildOrder>1</wildOrder>
-            <purpose>Beauty</purpose>
-        </plant>
-    </ThingDef>
 	
     <ThingDef ParentName="PlantBase">
         <defName>RG-BF_Plant_TigerLily</defName>
@@ -166,7 +135,7 @@
     <ThingDef ParentName="TreeBase">
         <defName>RG-BF_Plant_LargeTreePine</defName>
         <label>pine tree</label>
-        <description>A large bright green conifer with a thin bark. It grows taller than other pines.</description>
+        <description>A tall bright green conifer with a thin bark. It grows taller than other pines.</description>
         <graphicData>
             <texPath>Things/Plant/LargeTreePine</texPath>
             <graphicClass>Graphic_Random</graphicClass>

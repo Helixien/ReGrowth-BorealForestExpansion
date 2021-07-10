@@ -22,7 +22,6 @@
                 <li Class="PatchOperationAdd">
                     <xpath>/Defs/BiomeDef[defName="BorealForest"]/wildPlants</xpath>
                     <value>
-                        <RG-BF_Plant_RimReed>0.6</RG-BF_Plant_RimReed>
 						<RG-BF_Plant_TigerLily>0.4</RG-BF_Plant_TigerLily>
 						<RG-BF_Plant_BorealFern>2.0</RG-BF_Plant_BorealFern>
 						<RG-T_Plant_ScrubPine>0.7</RG-T_Plant_ScrubPine>
@@ -35,7 +34,6 @@
                 <li Class="PatchOperationAdd">
                     <xpath>/Defs/BiomeDef[defName="ColdBog"]/wildPlants</xpath>
                     <value>
-                        <RG-BF_Plant_RimReed>0.2</RG-BF_Plant_RimReed>
 						<RG-BF_Plant_TigerLily>0.3</RG-BF_Plant_TigerLily>
 						<RG-BF_Plant_BorealFern>1.0</RG-BF_Plant_BorealFern>
                         <RG-BF_Plant_LargeTreePine>0.01</RG-BF_Plant_LargeTreePine>
